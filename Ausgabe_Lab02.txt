@@ -1,0 +1,39 @@
+(.venv) PS C:\Users\wn00225832\OneDrive - WGS 365\Desktop\Lab02_Fridge_Assistant> python fridge_assistant.py
+Sende Bild an das Foundation Model...
+
+Analyse-Ergebnis:
+
+Hier ist die strukturierte Analyse des Kühlschranks:
+
+### 1. Kurze Bildbeschreibung
+Der Kühlschrank ist aufrecht und voll beladen mit verschiedenen Lebensmitteln und Getränken. Die Innenbeleuchtung ist aktiv, was die Sichtbarkeit der Inhalte verbessert. Es gibt mehrere Regale und Fächer mit einer Vielzahl von Produkten.
+
+### 2. Sichtbar erkannte Lebensmittel
+- Joghurt (verschiedene Sorten)
+- Philadelphia Cream Cheese
+- Eine orange Frucht
+- Eingeschweißtes Gemüse (z. B. Salat)
+- Gekochte Nudeln (in einer Schüssel mit Folie bedeckt)
+- Eier
+- Einige Gläser mit eingelegten Lebensmitteln
+- Saft (Kräutertee)
+- Ein paar Dosen (das genaue Produkt ist unsicher)
+- Möglicherweise einige kleine Snacks oder Süßigkeiten
+
+### 3. Einen einfachen Rezeptvorschlag
+**Simpler Joghurt-Snack:**
+- Zutaten: Joghurt, frische Früchte (z. B. orange), eventuell etwas Honig oder Nüsse, falls vorhanden.
+- Zubereitung: Joghurt in eine Schüssel geben, die orange Frucht schälen und in Stücke schneiden, dann über den Joghurt geben. Mit Honig oder Nüssen garnieren.
+
+### 4. Fehlende Zutaten / Einkaufsliste
+- Honig (falls nicht vorhanden)
+- Nüsse (optional)
+- Weitere frische Früchte für Vielfalt
+- Snacks für Zwischendurch (falls gewünscht)
+
+### 5. Unsicherheiten oder Grenzen der Analyse
+- Einige Produkte sind möglicherweise nicht eindeutig zu erkennen (z. B. die Dosen und eventuell einige Gläser).
+- Die genaue Art der im Kühlschrank aufbewahrten Lebensmittel kann variieren, da die Sicht auf einige Bereiche eingeschränkt ist.
+- Keine Informationen über Haltbarkeit oder Frische der Produkte.
+
+Fertig. Ergebnisse gespeichert in fridge_analysis.txt und fridge_results.csv.
